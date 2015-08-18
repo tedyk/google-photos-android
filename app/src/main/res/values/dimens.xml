@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="album_thumbnail_size">148dp</dimen>
+    <dimen name="photo_thumbnail_size">98dp</dimen>
+    <dimen name="album_thumbnail_spacing">6dp</dimen>
+    <dimen name="photo_thumbnail_spacing">2dp</dimen>
+
+    <integer name="num_cols">1</integer>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Photos POC</string>
+
+    <string name="action_search">Fetch From Google Photos</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_internet">There\'s trouble connecting to the internet. Can you check if everything\'s alright?.</string>
+
+</resources>
